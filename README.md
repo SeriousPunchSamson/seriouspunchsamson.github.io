@@ -1,4 +1,4 @@
-# seriouspunchsamson.github.io
+
 Poopoo pie
 Singing Polar Bears
 Baby Wonder Bugs
@@ -14,7 +14,7 @@ Scooby Doo's Lunch Box
             font-family: Arial, sans-serif;
             text-align: center;
             margin-top: 50px;
-            color: green; /* This sets the font color to green */
+            color: green; /* Don't say I didn't warn you.. */
         }
     </style>
 </head>
