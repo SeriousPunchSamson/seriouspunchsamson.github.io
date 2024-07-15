@@ -14,12 +14,12 @@ Scooby Doo's Lunch Box
             font-family: Arial, sans-serif;
             text-align: center;
             margin-top: 50px;
-            color: green; /* Don't say I didn't warn you.. */
+            color: green; /* fuck */
         }
     </style>
 </head>
 <body>
     <h1>Welcome to My GitHub Pages Site</h1>
-    <p>This text is displayed in green font.</p>
+    <p>Dont say I didn't warn you.</p>
 </body>
 </html>
